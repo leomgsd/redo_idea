@@ -40,4 +40,10 @@ public interface CourseMapper {
     public void test2();
     public void test3();
     public void test4();
+
+
+    public void test21();
+    public void test22();
+    public void test23();
+    public void test24();
 }
