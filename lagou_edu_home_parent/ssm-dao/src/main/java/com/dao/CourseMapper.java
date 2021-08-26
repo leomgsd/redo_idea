@@ -34,4 +34,10 @@ public interface CourseMapper {
     public void updateCourseStatus(Course course);
     
     public void updateCourseStatus2(Course course);
+
+
+    public void test1();
+    public void test2();
+    public void test3();
+    public void test4();
 }
