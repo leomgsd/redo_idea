@@ -1,0 +1,9 @@
+com\controller\ResourceController.class
+com\controller\RoleController.class
+com\controller\TestController.class
+com\controller\CourseContentController.class
+com\controller\UserController.class
+com\controller\MenuController.class
+com\controller\CourseController.class
+com\controller\PromotionSpaceController.class
+com\controller\PromotionAdController.class

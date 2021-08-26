@@ -1,0 +1,9 @@
+com\dao\UserMapper.class
+com\dao\PromotionAdMapper.class
+com\dao\ResourceMapper.class
+com\dao\RoleMapper.class
+com\dao\PromotionSpaceMapper.class
+com\dao\MenuMapper.class
+com\dao\CourseMapper.class
+com\dao\TestMapper.class
+com\dao\CourseContentMapper.class
