@@ -32,4 +32,6 @@ public interface CourseMapper {
 
     //课程状态管理
     public void updateCourseStatus(Course course);
+    
+    public void updateCourseStatus2(Course course);
 }
